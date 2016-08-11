@@ -83,7 +83,7 @@ $real_user_id = $row['real_user_id'];
         Use the scales below to rate each candidate for each aspect.
     </li>
     <li>
-        At the bottom, explain the reasons for your scores (using 60-100 words).
+        At the bottom, explain the reasons for your scores (using 60-100 words). <i>Please provide specific evidence for your reasons.</i>
     </li>
     </ul>
 
