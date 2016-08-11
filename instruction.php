@@ -85,7 +85,7 @@ session_start();
 
 
                 <p>
-                    Please read the information regarding the three candidates very carefully. Click <a href="https://docs.google.com/spreadsheets/d/1tXTdFMQ_VPg8Qzc5m_CFC10pN7UP3S1Xj03uPmY85CU/edit?usp=sharing" target="_blank"><b>HERE</b></a>!
+                    Please read the information regarding the three candidates very carefully. Click <a href="https://docs.google.com/spreadsheets/d/12NQVO6PMvoqMuPhzhO2Oo0ggRKeI7VWz9M8stmK1hgg/edit?usp=sharing" target="_blank"><b>HERE</b></a>!
                 </p>
 
 

@@ -77,13 +77,13 @@ $real_user_id = $row['real_user_id'];
     <b>What you should do in this page?</b><br>
     <ul>
         <li>
-            Recall that you will evaluate three candidate students for an engineering program. <a href="https://docs.google.com/spreadsheets/d/1tXTdFMQ_VPg8Qzc5m_CFC10pN7UP3S1Xj03uPmY85CU/edit?usp=sharing" target="_blank">Student Information</a>
+            Recall that you will evaluate three candidate students for an engineering program. <a href="https://docs.google.com/spreadsheets/d/12NQVO6PMvoqMuPhzhO2Oo0ggRKeI7VWz9M8stmK1hgg/edit?usp=sharing" target="_blank">Student Information</a>
         </li>
     <li>
         Use the scales below to rate each candidate for each aspect.
     </li>
     <li>
-        At the bottom, explain the reasons for your scores (using 60-100 words). <i>Please provide specific evidence for your reasons.</i>
+        At the bottom, explain the reasons for your scores (using 60-100 words).
     </li>
     </ul>
 
