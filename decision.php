@@ -328,7 +328,7 @@ $user_num = $row['user_num'];
 
                         var data1 = [{rect:0, name:"Overall"},{rect:1, name:"Academic"},{rect:2, name:"Activity"},{rect:3, name:"Recommendation Letter"},{rect:4, name:"Readiness for Engineering"}];
 
-                        var title_width = 165;
+                        var title_width = 150;
                         var rect_height = 2, rect_width=400;
                         var padding_x = 10;
                         var padding_y = 70;
@@ -346,6 +346,7 @@ $user_num = $row['user_num'];
                             .append("text")
                             .attr("x", title_width)
                             .attr("y", function(d){return (d.rect + 1) * padding_y + 5})
+                            .style("font-size", "12px")
                             .attr("text-anchor", "end")
                             .text(function(d){return d.name;});
                         rect
