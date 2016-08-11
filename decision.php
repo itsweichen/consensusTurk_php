@@ -346,6 +346,7 @@ $user_num = $row['user_num'];
                             .append("text")
                             .attr("x", title_width)
                             .attr("y", function(d){return (d.rect + 1) * padding_y + 5})
+                            .style("font-size", "12px")
                             .attr("text-anchor", "end")
                             .text(function(d){return d.name;});
                         rect
