@@ -77,7 +77,7 @@ $real_user_id = $row['real_user_id'];
     <b>What you should do in this page?</b><br>
     <ul>
         <li>
-            Recall that you will evaluate three candidate students for an engineering program. <a href="https://docs.google.com/spreadsheets/d/12NQVO6PMvoqMuPhzhO2Oo0ggRKeI7VWz9M8stmK1hgg/edit?usp=sharing" target="_blank">Student Information</a>
+            Recall that you will evaluate three candidate students for an engineering program. <a href="https://docs.google.com/spreadsheets/d/1NIyAHowDcOlDKHdyVmHZytMfeglwXFxmV6-UBLkGfnA/edit?usp=sharing" target="_blank">Student Information</a>
         </li>
     <li>
         Use the scales below to rate each candidate for each aspect.
